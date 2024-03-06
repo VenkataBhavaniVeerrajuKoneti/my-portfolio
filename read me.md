@@ -6,8 +6,7 @@
 
 ![s4](https://github.com/VenkataBhavaniVeerrajuKoneti/my-portfolio/assets/118920277/7cc62390-94b8-4d14-b2cd-54050bffd783)
 
-![s5](https://github.com/VenkataBhavaniVeerrajuKoneti/my
--portfolio/assets/118920277/41703fde-c563-4a77-b5db-e73bc7e7d145)
+![s5](https://github.com/VenkataBhavaniVeerrajuKoneti/my-portfolio/assets/118920277/41703fde-c563-4a77-b5db-e73bc7e7d145)
 
 ![s6](https://github.com/VenkataBhavaniVeerrajuKoneti/my-portfolio/assets/118920277/48a1cdc7-91e0-44a8-b076-fed586f980ed)
 

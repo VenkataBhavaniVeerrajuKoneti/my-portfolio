@@ -10,4 +10,8 @@
 
 ![s6](https://github.com/VenkataBhavaniVeerrajuKoneti/my-portfolio/assets/118920277/48a1cdc7-91e0-44a8-b076-fed586f980ed)
 
+<<<<<<< HEAD
 ![s7](https://github.com/VenkataBhavaniVeerrajuKoneti/my-portfolio/assets/118920277/0be8a64d-9a98-4750-9757-796cbd44118f)
+=======
+![s7](https://github.com/VenkataBhavaniVeerrajuKoneti/my-portfolio/assets/118920277/0be8a64d-9a98-4750-9757-796cbd44118f)
+>>>>>>> 64ba902a964730a1a66269cc1e8fe43ed765a932
